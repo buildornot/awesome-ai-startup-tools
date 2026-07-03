@@ -32,6 +32,7 @@ A curated list of tools, websites, and inspiration to help you decide **what to 
 
 ## 💡 Idea Validation Tools
 
+- [GetAppNiche App Revenue Checker](https://getappniche.com/tools/app-revenue-checker) — Free iOS App Store revenue checker for estimating app revenue and market demand.
 - [Google Forms](https://forms.google.com)
 - [Typeform](https://typeform.com)
 - [BuildOrNot.io](https://buildornot.io)
