@@ -35,6 +35,7 @@ A curated list of tools, websites, and inspiration to help you decide **what to 
 - [Google Forms](https://forms.google.com)
 - [Typeform](https://typeform.com)
 - [BuildOrNot.io](https://buildornot.io)
+- [IdeaHunter](https://ideahunter.today)
 
 ---
 
