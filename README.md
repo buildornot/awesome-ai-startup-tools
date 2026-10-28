@@ -19,6 +19,7 @@ A curated list of tools, websites, and inspiration to help you decide **what to 
 - [Google Trends](https://trends.google.com)
 - [Indie Hackers](https://www.indiehackers.com)
 - [Open Startup List](https://openstartups.co/)
+- [PainPoint Daily](https://painpointdaily.com) — Business opportunities from real problems: daily startup and business ideas drawn from Reddit pain points, each with source threads.
 
 ---
 
