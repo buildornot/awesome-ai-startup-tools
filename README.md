@@ -14,6 +14,7 @@ A curated list of tools, websites, and inspiration to help you decide **what to 
 
 ## 🛠️ Other Tools for Idea Discovery
 
+- [EarlyLore](https://earlylore.com) — Research workspace for founders: study real SaaS products, revenue signals and competitor page changes before you build.
 - [Trends.vc](https://trends.vc)
 - [Exploding Topics](https://explodingtopics.com)
 - [Google Trends](https://trends.google.com)
