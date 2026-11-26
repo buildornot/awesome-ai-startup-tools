@@ -35,6 +35,7 @@ A curated list of tools, websites, and inspiration to help you decide **what to 
 - [Google Forms](https://forms.google.com)
 - [Typeform](https://typeform.com)
 - [BuildOrNot.io](https://buildornot.io)
+- [SoloLens by AIOTFY](https://solo.aiotfy.com) - Free idea score out of 100 for solo founders, with a public same-idea test of free validators
 
 ---
 
